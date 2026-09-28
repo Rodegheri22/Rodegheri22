@@ -35,17 +35,18 @@ text
 
 <!-- WHAT I'M LEARNING -->🧠 What I'm Learning
 
-<div align="center">"Python" (https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-"React" (https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-"JavaScript" (https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-"Node.js" (https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
-"SQL" (https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+<div align="center">
+src= "https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"
+src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"
+src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+"Node.js" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933"
+src= "https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"
 
-"Git" (https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-"GitHub" (https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
-"Excel" (https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-"Power BI" (https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-"AI" (https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=googlebard&logoColor=8E75B2)
+src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"
+src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"
+src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346" 
+src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"
+src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=googlebard&logoColor=8E75B2"
 
 </div>---
 
