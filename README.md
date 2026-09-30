@@ -60,7 +60,6 @@ text
 
 💻 Programming & Web Development
 
-<div align="center">## 🧠 What I'm Learning
 
 <div align="center">
 
@@ -72,6 +71,8 @@ text
 <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 
 </div>
+
+<br>
 
 🗄️ Databases & Data
 
