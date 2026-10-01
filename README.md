@@ -54,7 +54,7 @@ text
 
 </div>
 
-<!-- TECHNOLOGIES -->🛠️ Technologies & Tools
+<!-- TECHNOLOGIES --> 
 <br>
 
 
@@ -83,6 +83,9 @@ text
 <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
 
+<br>
+<br>
+
 </div>🔧 Development Tools
 
 <div align="center">
@@ -92,6 +95,8 @@ text
 <img src = "https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 
 </div>---
+<br>
+<br>
 
 <!-- SOFTWARE ENGINEERING -->🏗️ Software Engineering
 
@@ -164,7 +169,7 @@ Focus:
 + Software Engineering
 + Python
 + JavaScript
-+ React
+ + React
 + Node.js
 + SQL
 + Git & GitHub
